@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirmal Reddy</h1>
-<h3 align="center">A enthusiastic Software Engineer from India.</h3>
+<h3 align="center">A Enthusiastic Software Engineer From India.</h3>
 
-- ⚡ Fun fact **I forget to push my projects to git**
+- ⚡ Fun fact ** I forget to push my projects to git**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
